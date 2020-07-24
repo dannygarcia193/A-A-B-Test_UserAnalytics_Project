@@ -23,19 +23,19 @@ You'll be using the same dataset for general analytics and for A/A/B analysis. I
  - ExpId — experiment number: 246 and 247 are the control groups, 248 is the test group
  
  # Figures
- Figure 1. <br>
+ ## Figure 1. <br>
  <img src="images/Screenshot_221.png?raw=true" width="50%" height="10%"/><br><br>
- Figure 2. <br>
+ ## Figure 2. <br>
  <img src="images/Screenshot_222.png?raw=true" width="75%" height="50%"/><br><br>
- Figure 3. <br>
+## Figure 3. <br>
  <img src="images/Screenshot_223.png?raw=true" width="75%" height="50%"/><br><br>
- Figure 4. <br>
+## Figure 4. <br>
  <img src="images/Screenshot_224.png?raw=true" width="75%" height="50%"/><br><br>
- Figure 5. <br>
+## Figure 5. <br>
  <img src="images/Screenshot_225.png?raw=true" width="75%" height="50%"/><br><br>
- Figure 6. <br>
+## Figure 6. <br>
  <img src="images/Screenshot_226.png?raw=true" width="75%" height="50%"/><br><br>
- Figure 7. <br>
+## Figure 7. <br>
  <img src="images/Screenshot_227.png?raw=true" width="75%" height="50%"/><br><br>
  
  
