@@ -23,4 +23,10 @@ You'll be using the same dataset for general analytics and for A/A/B analysis. I
  - ExpId — experiment number: 246 and 247 are the control groups, 248 is the test group
  
  # Figures
- 
+ [Figure 1](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_221.png)
+ [Figure 2](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_222.png)
+ [Figure 3](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_223.png)
+ [Figure 4](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_224.png)
+ [Figure 5](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_225.png)
+ [Figure 6](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_226.png)
+ [Figure 7](https://github.com/dannygarcia193/AAB-Test_UserAnalytics_Project/blob/master/images/Screenshot_227.png)
