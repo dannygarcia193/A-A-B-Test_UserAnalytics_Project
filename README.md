@@ -24,19 +24,19 @@ You'll be using the same dataset for general analytics and for A/A/B analysis. I
  
  # Figures
  Figure 1. <br>
- <img src="images/Screenshot_221.png?raw=true" width="50%" height="10%"/>
+ <img src="images/Screenshot_221.png?raw=true" width="50%" height="10%"/><br><br>
  Figure 2. <br>
  <img src="images/Screenshot_222.png?raw=true" width="75%" height="50%"/><br><br>
- Figure 3.
- <img src="images/Screenshot_223.png?raw=true" width="75%" height="50%"/>
- Figure 4.
- <img src="images/Screenshot_224.png?raw=true" width="75%" height="50%"/>
- Figure 5.
- <img src="images/Screenshot_225.png?raw=true" width="75%" height="50%"/>
- Figure 6.
- <img src="images/Screenshot_226.png?raw=true" width="75%" height="50%"/>
- Figure 7.
- <img src="images/Screenshot_227.png?raw=true" width="75%" height="50%"/>
+ Figure 3. <br>
+ <img src="images/Screenshot_223.png?raw=true" width="75%" height="50%"/><br><br>
+ Figure 4. <br>
+ <img src="images/Screenshot_224.png?raw=true" width="75%" height="50%"/><br><br>
+ Figure 5. <br>
+ <img src="images/Screenshot_225.png?raw=true" width="75%" height="50%"/><br><br>
+ Figure 6. <br>
+ <img src="images/Screenshot_226.png?raw=true" width="75%" height="50%"/><br><br>
+ Figure 7. <br>
+ <img src="images/Screenshot_227.png?raw=true" width="75%" height="50%"/><br><br>
  
  
 
